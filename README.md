@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maruthi H V
 - 👀 I’m interested in Python Automation, Network automation, VPN, cloud platforms and CCNP
-- 🌱 I’m currently learning CCNP
+- 🌱 I’m currently learning CCNA, AWS cloud practioner
 - 📫 How to reach me maruthivshetty.sid@gmail.com / +918660960769
 
 <!---
